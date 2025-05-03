@@ -48,17 +48,22 @@ From the information we found, like telegram tokens (admin bot and general bot, 
 ![](/assets/images/bancolombia-scam/telegram_getme.png)
 
 
+>#1 bot name @GpColombot
+
+![](/assets/images/bancolombia-scam/telegram_getme_2.png)
+
+>#2 bot name @ColomRes2Bot
+
+the next step was get information from the channel IDs
+
+![](/assets/images/bancolombia-scam/infochats_token_bot.png)
+
+
+
 
 ## Conclusion
 
 People still being victim of scams in general, no matters how unreal can be look those scams... We have to share the knowledge and explain to people how this kind of scam works. :D  
-
-
-now Metallica made a twit about this situation.
-
-![](/assets/images/metallica-scam/mt.png)
-
-
 
 
 - [You can follow my Twitter thread here...](https://twitter.com/_Mrpack/status/1599873749460787200?s=20&t=HzH6Hp2mv1xPg3Ct65EPnw)
