@@ -54,14 +54,20 @@ From the information we found, like telegram tokens (admin bot and general bot, 
 
 >#2 bot name @ColomRes2Bot
 
+>Apparently, Telegram has flagged the chat name as this_chat_is_scam
+
 the next step was get information from the channel IDs
 
 ![](/assets/images/bancolombia-scam/infochats_token_bot.png)
 
 > #1 Title Chat: Gp C.C Colombia
+
 > #2 Title Chat: GPsucursal 2 bancolom
+
 > #3 Title Chat: BankColomKeys
+
 > #4 Title Chat: PhotoColomRes
+
 
 ![](/assets/images/bancolombia-scam/administrators1.png)
 
@@ -69,9 +75,15 @@ the first time that I take the evidence his username was "Donaldtrump_21" but fe
 
 ![](/assets/images/bancolombia-scam/bctc2.png)
 
+After reviewing the posts from that profile, we were able to identify some data that could give us an indication of their possible location.
 
+![](/assets/images/bancolombia-scam/waze%20ruta.png)
 
+there is a few bulding names... so lets google it...
 
+![](/assets/images/bancolombia-scam/googlemaps.png)
+
+As you can see, they belong to the city of Barranquilla (Colombia).
 
 
 
