@@ -58,6 +58,21 @@ the next step was get information from the channel IDs
 
 ![](/assets/images/bancolombia-scam/infochats_token_bot.png)
 
+> #1 Title Chat: Gp C.C Colombia
+> #2 Title Chat: GPsucursal 2 bancolom
+> #3 Title Chat: BankColomKeys
+> #4 Title Chat: PhotoColomRes
+
+![](/assets/images/bancolombia-scam/administrators1.png)
+
+the first time that I take the evidence his username was "Donaldtrump_21" but few days later he changed it to "Bctc2" (premium telegram).
+
+![](/assets/images/bancolombia-scam/bctc2.png)
+
+
+
+
+
 
 
 
@@ -66,6 +81,4 @@ the next step was get information from the channel IDs
 People still being victim of scams in general, no matters how unreal can be look those scams... We have to share the knowledge and explain to people how this kind of scam works. :D  
 
 
-- [You can follow my Twitter thread here...](https://twitter.com/_Mrpack/status/1599873749460787200?s=20&t=HzH6Hp2mv1xPg3Ct65EPnw)
-- [Metallica Twit here...](https://twitter.com/Metallica/status/1599979746104061952?s=20&t=b8RXi0AuUQuKJLKwNwjM6A)
 
