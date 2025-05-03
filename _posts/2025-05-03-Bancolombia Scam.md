@@ -85,6 +85,26 @@ there is a few bulding names... so lets google it...
 
 As you can see, they belong to the city of Barranquilla (Colombia).
 
+and some tattoos...
+
+![](/assets/images/bancolombia-scam/tattoo%20brazo.png)
+
+
+Ok ... Ok... 
+
+We identified some information from the bots and the administrator account, but what about the information they got from the victims?
+
+lets see...
+
+I was able to forward all the information from their group chats to my Telegram account.
+
+![](/assets/images/bancolombia-scam/chat_is_scam.png)
+
+> 810 pictures (I had to stop at this point forwarding the data from this bot because there is more than 8000 data, IDs, user and passwords).
+
+![](/assets/images/bancolombia-scam/cedulas1.png)
+
+
 
 
 
