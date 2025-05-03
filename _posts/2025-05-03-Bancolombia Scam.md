@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Metallica - Crypto Scam
+title: Scam Hunting - Bancolombia
 excerpt: #"This scam was funn to found"
-date: 2022-12-05
+date: 2025-05-03
 classes: wide
 header:
-  teaser: /assets/images/metallica-scam/01.JPG
+  teaser: /assets/images/scamhunting.png
   teaser_home_page: true
   icon: #/assets/images/hackthebox.webp
 categories:
