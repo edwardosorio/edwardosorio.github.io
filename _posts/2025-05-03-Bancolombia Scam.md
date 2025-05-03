@@ -100,17 +100,24 @@ I was able to forward all the information from their group chats to my Telegram 
 
 ![](/assets/images/bancolombia-scam/chat_is_scam.png)
 
-> 810 pictures (I had to stop at this point forwarding the data from this bot because there is more than 8000 data, IDs, user and passwords).
+> 810 pictures (I had to stop at this point forwarding the data from this bot because there is more than 8000 data, IDs (pictures), user and passwords).
 
 ![](/assets/images/bancolombia-scam/cedulas1.png)
 
+now the admin bot ...
 
+![](/assets/images/bancolombia-scam/GpColombiaBot.png)
 
+> 3926 registers (I had to stop at this point forwarding the data from this bot because there is more than 16000 data, IDs, user and passwords, credit card numbers).
+
+![](/assets/images/bancolombia-scam/datos_tarjetas.png)
+
+And ... That's it, guys !! ... I hope you enjoyed this post.
 
 
 ## Conclusion
 
-People still being victim of scams in general, no matters how unreal can be look those scams... We have to share the knowledge and explain to people how this kind of scam works. :D  
+- People still being victim of scams in general, no matters how unreal can be look those scams... We have to share the knowledge and explain to people how this kind of scam works. :D  
 
-
+- This scam was reported to Bancolombia, and they are taking action on the case.
 
