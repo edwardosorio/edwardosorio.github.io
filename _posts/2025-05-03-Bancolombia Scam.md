@@ -16,10 +16,7 @@ tags:
   - phishing
 ---
 
-Hey!! After a long, long, long time without a post, it's time to let you know that I'm bringing up a new project named "Scam Hunting." The principal goal of this project is to understand how scams work, figure out the entire workflow, and identify scammers behind the scenes.
-
-
-so ... say less...
+Hey!! After a long, long time without a post, it's time to let you know that I'm bringing up a new project named "Scam Hunting." The principal goal of this project is to understand how scams work, figure out the entire workflow, and identify scammers behind the scenes.
 
 
 In this case, I found a SMS scam with this content:
@@ -36,12 +33,6 @@ Once we click it, we got a redirect to a new url with this:
 ![](/assets/images/bancolombia-scam/web.png)
 
 The content of that website indicates that the victim activated life insurance, so he needs to deactivate or cancel it; otherwise, it will result in a charge on his bank account.
-
-after a few minutes I found some requests to firestore.
-
->https://firestore.googleapis.com/v1/projects/xxxxx/databases/xxxx/documents/xxx/xxx
-
-Due to bad security configurations like Public access was possible to get important information from the firestore of the scam.
 
 From the information we found, like telegram tokens (admin bot and general bot, a few telegram channel IDs, API key), I started to enumerate information about those telegram bots.
 
@@ -71,9 +62,9 @@ the next step was get information from the channel IDs
 
 ![](/assets/images/bancolombia-scam/administrators1.png)
 
-the first time that I take the evidence his username was "Donaldtrump_21" but few days later he changed it to "Bctc2" (premium telegram).
+the first time that I take the evidence his username was "Donaldtrump_21" but few days later he changed it.
 
-![](/assets/images/bancolombia-scam/bctc2.png)
+![](/assets/images/bancolombia-scam/username.png)
 
 After reviewing the posts from that profile, we were able to identify some data that could give us an indication of their possible location.
 
